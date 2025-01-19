@@ -1,10 +1,8 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.support.ui.Select;
 
-public class Assignment4 {
+public class Login {
     public static void main(String[] args) {
 
         System.setProperty("webdriver.edge.driver","src/test/resources/drivers/msedgedriver.exe");
